@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "b0b0",
+      "name": "Luan Lopes",
+      "email": "lopesluan18@outlook.com",
+      "password": "aparecida123"
+    },
+    {
+      "id": "bfe8",
+      "name": "kaique",
+      "email": "kaiques.goncalves@gmail.com",
+      "password": "22021993"
+    }
+  ],
+  "lists": [],
+  "tasks": []
+}
